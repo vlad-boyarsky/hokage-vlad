@@ -1,5 +1,7 @@
 ### Hi there, I'm Vlad 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=hokage-vlad&amp;show_icons=true&amp;theme=radical" alt="Anurag's github stats" style="max-width:100%;">
+
 <h3>Languages and Tools:</h3>
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
