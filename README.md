@@ -1,5 +1,6 @@
 ### Hi there, I'm Vlad 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokage-vlad&amp;layout=compact" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact" style="max-width:100%;">
 <img src="https://github-readme-stats.vercel.app/api?username=hokage-vlad&amp;show_icons=true&amp;theme=radical" alt="Anurag's github stats" style="max-width:100%;">
 
 <h3>Languages and Tools:</h3>
