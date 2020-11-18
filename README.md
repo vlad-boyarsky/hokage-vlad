@@ -1,4 +1,4 @@
-<h1><img src="sharingan-2.png" width="25"> Hi, there, I'm Vlad <img src="sharingan-2.png" width="25"></h1>
+<h1><img src="sharingan-3.png" width="25"> Hi, there, I'm Vlad <img src="sharingan-3.png" width="25"></h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokage-vlad&amp;layout=compact&amp;theme=radical" alt="Top Langs" style="width:50%; float:left;">
 <img src="https://github-readme-stats.vercel.app/api?username=hokage-vlad&amp;show_icons=true&amp;theme=radical&amp;hide=prs,issues,contribs" alt="Anurag's github stats" style="max-width:100%;">
