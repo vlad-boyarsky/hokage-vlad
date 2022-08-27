@@ -11,7 +11,11 @@
 </tr>
 <tr>
   <td>Linkedin</td>
-  <td><a href="https://gitlab.com/vladkage](https://www.linkedin.com/in/vladislav-boyarsky">https://www.linkedin.com/in/vladislav-boyarsky</a></td>
+  <td><a href="https://www.linkedin.com/in/vladislav-boyarsky">https://www.linkedin.com/in/vladislav-boyarsky</a></td>
+</tr>
+<tr>
+  <td>Gmail</td>
+  <td><a href="mailto:hokage.vlados@gmail.com">hokage.vlados@gmail.com</a></td>
 </tr>
 </table>
 
