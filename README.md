@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-  <th>Github</th>
-  <th><a href="https://github.com/hokage-vlad/">https://github.com/hokage-vlad/</a></th>
+  <td>Github</td>
+  <td><a href="https://github.com/hokage-vlad/">https://github.com/hokage-vlad/</a></td>
 </tr>
 <tr>
   <td>Gitlab</td>
