@@ -3,7 +3,7 @@
 <table>
 <tr>
   <td>Github</td>
-  <td><a href="https://github.com/hokage-vlad/">https://github.com/hokage-vlad/</a></td>
+  <td><a href="https://github.com/hokage-vlad/">https://github.com/hokage-vlad</a></td>
 </tr>
 <tr>
   <td>Gitlab</td>
@@ -11,7 +11,7 @@
 </tr>
 <tr>
   <td>Linkedin</td>
-  <td>https://www.linkedin.com/in/vladislav-boyarsky/</td>
+  <td><a href="https://gitlab.com/vladkage](https://www.linkedin.com/in/vladislav-boyarsky">https://www.linkedin.com/in/vladislav-boyarsky</a></td>
 </tr>
 </table>
 
